@@ -4943,6 +4943,12 @@
     githubId = 180068;
     name = "Leon van Kammen";
   };
+  codevryn = {
+    github = "CodeVryn";
+    githubId = 135808131;
+    email = "codevryn@gmail.com";
+    name = "CodeVryn";
+  };
   codgician = {
     email = "codgician@outlook.com";
     github = "codgician";
